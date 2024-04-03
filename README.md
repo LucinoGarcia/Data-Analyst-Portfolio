@@ -13,7 +13,7 @@ https://ourworldindata.org/covid-deaths
 
 
 
-## Huberman Lab Podcast Transcript Extraction – Data Scraping and Exploration
+## Huberman Lab Podcast Transcript Extraction – Data Scraping
 
 
 [See more of the "Huberman Lab Podcast Transcript Extraction" project](./Huberman_Lab_NLP.html)
