@@ -9,7 +9,9 @@ As a US Army veteran and Data Analyst with a passion for leveraging data-driven 
 
 
 ## Covid Dashboard – Data Cleaning and Visualization
-https://ourworldindata.org/covid-deaths
+
+[See more of the "Covid Dashboard" project](./Covid_Dashboard.html)
+
 
 
 
