@@ -16,6 +16,10 @@ As a US Army veteran and Data Analyst with a passion for leveraging data-driven 
 
 
 ## Covid Dashboard – Data Cleaning and Visualization
+- Utilized SQL queries to aggregate and analyze global COVID-19 data, aiming to derive actionable insights for policymakers in the future.
+- Generated a comprehensive Tableau dashboard presenting key metrics such as total cases, deaths, and infection rates.
+
+![Covid_Dash.png](/images/Covid_Dash.png)
 
 [See more of the "Covid Dashboard" project](./Covid_Dashboard.html)
 
