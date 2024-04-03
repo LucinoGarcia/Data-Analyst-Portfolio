@@ -7,7 +7,6 @@ As a US Army veteran and Data Analyst with a passion for leveraging data-driven 
 ## Medical Insurance Cost – EDA and Model Building
 
 [See more of the "Medical Insurance Cost" project](./Medical_Insurance_Cost.html)
-[try this](https://github.com/LucinoGarcia/Covid-Dashboard/blob/main/README.html)
 
 
 
