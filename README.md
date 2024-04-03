@@ -5,7 +5,6 @@ As a US Army veteran and Data Analyst with a passion for leveraging data-driven 
 
 
 ## Medical Insurance Cost – EDA and Model Building
-[See more of the "Disease Detection with Computer Vision" project](./MRI-CVision.html).
 
 
 
@@ -15,3 +14,6 @@ https://ourworldindata.org/covid-deaths
 
 
 ## Huberman Lab Podcast Transcript Extraction – Data Scraping and Exploration
+
+
+[See more of the "Huberman Lab Podcast Transcript Extraction" project](./Huberman_Lab_NLP.html).
