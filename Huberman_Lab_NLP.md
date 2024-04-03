@@ -1,11 +1,5 @@
-## Huberman Lab Podcast Transcript Extraction
+## Huberman Lab Podcast Transcript Extraction - Data Scraping
 
-
-
-### Data Scraping
-
-
-### Exploration
 
 
 
