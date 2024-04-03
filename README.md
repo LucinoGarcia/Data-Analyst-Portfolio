@@ -10,7 +10,7 @@ As a US Army veteran and Data Analyst with a passion for leveraging data-driven 
 
 ![Response_Histogram.png](/images/MedCostReg_Plot.png)
 
-[See more of the "Medical Insurance Cost" project](./Medical_Insurance_Cost.html)
+[See more of the "Medical Insurance Cost" project](./Medical_Insurance_Cost.html)<br>
 
 
 
@@ -21,7 +21,7 @@ As a US Army veteran and Data Analyst with a passion for leveraging data-driven 
 
 ![Covid_Dash.png](/images/Covid_Dash.png)
 
-[See more of the "Covid Dashboard" project](./Covid_Dashboard.html)
+[See more of the "Covid Dashboard" project](./Covid_Dashboard.html)<br>
 
 
 
