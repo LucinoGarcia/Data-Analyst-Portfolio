@@ -8,14 +8,12 @@
 
 # Resources 
 **Excel Version:** 16.78<br>
-**mySQL Version:** 8.0.32<br>
-
-
+**mySQL Version:** 8.0.32
 
 <br>
 
 # Data Collection
-Dataset was found on World World in Data under the title [Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths).<br>
+Dataset was found on World World in Data under the title [Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths).
 
 
 
@@ -34,7 +32,7 @@ The deletion of columns was done in Excel to expedite the import into MySQL Work
 The SQL outputs were exported as Excel files before subsequently being imported into Tableau for the creation of the dashboard below.
 
 
-![image](/Covid_Dash.png)
+![image](/images/Covid_Dash.png)<br>
 [Link to the Tableau Dashboard](https://public.tableau.com/app/profile/lucino.garcia/viz/CovidDashboard2019-2021_17121143050260/Dashboard1?publish=yes) <br>
 
 
