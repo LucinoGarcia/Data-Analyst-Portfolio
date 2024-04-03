@@ -8,7 +8,7 @@ As a US Army veteran and Data Analyst with a passion for leveraging data-driven 
 - Utilize statistical modeling techniques to explore the intricate relationship between various factors and medical insurance costs.
 - Employed linear regression, decision tree, and random forest models, with random forest yielding the best results. Smoking status, BMI, and age had the largest impacts on medical insurance costs.
 
-![Response_Histogram.png](/images/Response_Histogram.png)
+![Response_Histogram.png](/images/MedCostReg_Plot.png)
 
 [See more of the "Medical Insurance Cost" project](./Medical_Insurance_Cost.html)
 
