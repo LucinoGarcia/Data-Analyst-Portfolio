@@ -27,6 +27,8 @@ As a US Army veteran and Data Analyst with a passion for leveraging data-driven 
 
 
 ## Huberman Lab Podcast Transcript Extraction – Data Scraping
+The transcripts for each of the episodes were scraped from [HubermanTranscripts.com](https://www.hubermantranscripts.com/) using Python's Selenium package. Each of the transcripts was reformatted and saved onto individual .txt files.
+
 
 
 [See more of the "Huberman Lab Podcast Transcript Extraction" project](./Huberman_Lab_NLP.html)
