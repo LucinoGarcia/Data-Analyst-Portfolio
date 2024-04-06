@@ -35,6 +35,6 @@ The transcripts for each of the episodes were scraped from [HubermanTranscripts.
 
 
 
-## Huberman Lab Podcast Transcript Extraction – Data Scraping
+## Other Dashboards and Data Visualizations
 ![collage of visuals](/vis/McD_Dashboard.png)
 [See more Data Visualizations](./Other-Visualizations.html)
