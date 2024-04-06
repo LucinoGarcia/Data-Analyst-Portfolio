@@ -31,4 +31,10 @@ The transcripts for each of the episodes were scraped from [HubermanTranscripts.
 
 
 
-[See more of the "Huberman Lab Podcast Transcript Extraction" project](./Huberman_Lab_NLP.html)
+[See more of the "Huberman Lab Podcast Transcript Extraction" project](./Huberman_Lab_NLP.html)<br><br>
+
+
+
+## Huberman Lab Podcast Transcript Extraction – Data Scraping
+![collage of visuals](/vis/McD_Dashboard.png)
+[See more Data Visualizations](./Other-Visualizations.html)
